@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "MVCScores"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-MVCScores-944daedc-0e74-47ee-a0da-e601a31375e4;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
